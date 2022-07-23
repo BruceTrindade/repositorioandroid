@@ -16,7 +16,9 @@ https://docs.google.com/presentation/d/1n-PKhRp8CKXOL1h5utw1pKoPPgzmOmHc7w0JYFNj
 
 # Android
 
-Curo gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/new-android-fundamentals--ud851
+Curso gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/new-android-fundamentals--ud851
+
+Outro curso gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 
 Li esse artigo bem legal sobre a diferença entre ViewBinding e DataBinding, podem confundir quem ta começando, confere lá: https://medium.com/@hardianbobby/databinding-vs-viewbinding-simple-comparison-792fa8d72e8
 
