@@ -41,7 +41,7 @@ https://github.com/BruceTrindade/InformalBusinessDictionary
 
 Qualquer duvida só chamar no discord, valeu!!!
 
-**Git**
+# Git
 
 Nesse repositório tem alguns comandos de git que serão muito usuais. Com o tempo adiciono novos comandos e mais dicas, por enquanto está bem simples:
 https://github.com/BruceTrindade/git
