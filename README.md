@@ -1,6 +1,6 @@
 # Repositorio Android
 
-Intençao desse repositório é com o tempo compartilhar conteudos que possam ajudam quem ta começando no desenvolvimento android
+Intençao desse repositório é com o tempo compartilhar conteudos que possam ajudar quem ta começando no desenvolvimento android
 
 # Discord
 
