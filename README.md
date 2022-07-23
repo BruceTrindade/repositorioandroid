@@ -19,17 +19,17 @@ https://docs.google.com/presentation/d/1n-PKhRp8CKXOL1h5utw1pKoPPgzmOmHc7w0JYFNj
 
 # Android
 
-## Cursos FREE:
+**Cursos FREE:**
 
 Curso gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/new-android-fundamentals--ud851
 
 Outro curso gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 
-## Artigos: 
+**Artigos:** 
+
 Li esse artigo bem legal sobre a diferença entre ViewBinding e DataBinding, podem confundir quem ta começando, confere lá: https://medium.com/@hardianbobby/databinding-vs-viewbinding-simple-comparison-792fa8d72e8
 
-
-## SampleApps que eu fiz mostrando alguns topicos que podem estudar: 
+**SampleApps que eu fiz mostrando alguns topicos que podem estudar:** 
 
 Um exemplo de como usar retrofit, é apenas um sample app, pode fazer o clone e entender como funciona o fluxo: https://github.com/BruceTrindade/RetrofitExample
 
@@ -41,3 +41,7 @@ https://github.com/BruceTrindade/InformalBusinessDictionary
 
 Qualquer duvida só chamar no discord, valeu!!!
 
+**Git**
+
+Nesse repositório tem alguns comandos de git que serão muito usuais. Com o tempo adiciono novos comandos e mais dicas, por enquanto está bem simples:
+https://github.com/BruceTrindade/git
