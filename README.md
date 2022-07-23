@@ -25,4 +25,15 @@ Outro curso gratuito da Udacity, excelente para quem ta começando: https://www.
 
 Li esse artigo bem legal sobre a diferença entre ViewBinding e DataBinding, podem confundir quem ta começando, confere lá: https://medium.com/@hardianbobby/databinding-vs-viewbinding-simple-comparison-792fa8d72e8
 
+SampleApps que eu fiz mostrando alguns topicos que podem estudar: 
+
+Um exemplo de como usar retrofit, é apenas um sample app, pode fazer o clone e entender como funciona o fluxo: https://github.com/BruceTrindade/RetrofitExample
+
+Um exemplo de como usar Navigation do jetpack, é bem usual no mercado, tenta replicar:
+https://github.com/BruceTrindade/WorkoutNavigation
+
+Um exemplo de RecyclerView, Navigation (inclusive passando dados entre telas) e bottom  dialog:
+https://github.com/BruceTrindade/InformalBusinessDictionary
+
+Qualquer duvida só chamar no discord, valeu!!!
 
