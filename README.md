@@ -2,6 +2,9 @@
 
 Intençao desse reposotiório é com o tempo compartilhar conteudos que possam ajudam quem ta começando no desenvolvimento android
 
+# Discord
+Grupo do discord para estudar android: https://discord.gg/fjdF5VNW 
+
 
 # Kotlin
 
