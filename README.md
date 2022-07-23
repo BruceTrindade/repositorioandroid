@@ -39,6 +39,9 @@ https://github.com/BruceTrindade/WorkoutNavigation
 Um exemplo de RecyclerView, Navigation (inclusive passando dados entre telas) e bottom  dialog:
 https://github.com/BruceTrindade/InformalBusinessDictionary
 
+Um simples exemplo de ViewModel
+https://github.com/BruceTrindade/SampleViewModel
+
 Qualquer duvida só chamar no discord, valeu!!!
 
 # Git
