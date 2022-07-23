@@ -14,7 +14,7 @@ https://play.kotlinlang.org/koans/overview
 Slide com alguns conteudos sobre Kotlin Basico
 https://docs.google.com/presentation/d/1n-PKhRp8CKXOL1h5utw1pKoPPgzmOmHc7w0JYFNjITo/edit?usp=sharing
 
-#Android
+# Android
 
 Curo gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/new-android-fundamentals--ud851
 
