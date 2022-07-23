@@ -1,10 +1,10 @@
-## Repositorio Android
+# Repositorio Android
 
 Intençao desse reposotiório é com o tempo compartilhar conteudos que possam ajudam quem ta começando no desenvolvimento android
 
 # Discord
-Grupo do discord para estudar android: https://discord.gg/fjdF5VNW 
 
+Grupo do discord para estudar android: https://discord.gg/fjdF5VNW 
 
 # Kotlin
 
@@ -19,13 +19,17 @@ https://docs.google.com/presentation/d/1n-PKhRp8CKXOL1h5utw1pKoPPgzmOmHc7w0JYFNj
 
 # Android
 
+## Cursos FREE:
+
 Curso gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/new-android-fundamentals--ud851
 
 Outro curso gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 
+## Artigos: 
 Li esse artigo bem legal sobre a diferença entre ViewBinding e DataBinding, podem confundir quem ta começando, confere lá: https://medium.com/@hardianbobby/databinding-vs-viewbinding-simple-comparison-792fa8d72e8
 
-SampleApps que eu fiz mostrando alguns topicos que podem estudar: 
+
+## SampleApps que eu fiz mostrando alguns topicos que podem estudar: 
 
 Um exemplo de como usar retrofit, é apenas um sample app, pode fazer o clone e entender como funciona o fluxo: https://github.com/BruceTrindade/RetrofitExample
 
