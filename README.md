@@ -17,6 +17,9 @@ https://play.kotlinlang.org/koans/overview
 Slide com alguns conteudos sobre Kotlin Basico
 https://docs.google.com/presentation/d/1n-PKhRp8CKXOL1h5utw1pKoPPgzmOmHc7w0JYFNjITo/edit?usp=sharing
 
+Conteudo bem didatico sobre Kotlin:
+https://typealias.com/start/
+
 # Android
 
 **Cursos FREE:**
