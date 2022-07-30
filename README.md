@@ -28,6 +28,10 @@ Curso gratuito da Udacity, excelente para quem ta começando: https://www.udacit
 
 Outro curso gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 
+**Roadmap:**
+
+Esse Roadmap ta bem completo e atualizado: https://github.com/skydoves/android-developer-roadmap
+
 **Artigos:** 
 
 Li esse artigo bem legal sobre a diferença entre ViewBinding e DataBinding, podem confundir quem ta começando, confere lá: https://medium.com/@hardianbobby/databinding-vs-viewbinding-simple-comparison-792fa8d72e8
@@ -51,3 +55,6 @@ Qualquer duvida só chamar no discord, valeu!!!
 
 Nesse repositório tem alguns comandos de git que serão muito usuais. Com o tempo adiciono novos comandos e mais dicas, por enquanto está bem simples:
 https://github.com/BruceTrindade/git
+
+Aqui ta o livro da própria git: https://git-scm.com/book/pt-br/v2
+
