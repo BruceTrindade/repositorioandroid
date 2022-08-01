@@ -32,6 +32,8 @@ Outro curso gratuito da Udacity, excelente para quem ta começando: https://www.
 
 Esse Roadmap ta bem completo e atualizado: https://github.com/skydoves/android-developer-roadmap
 
+Roadmap Entrevistas: https://github.com/MindorksOpenSource/android-interview-questions
+
 **Artigos:** 
 
 Li esse artigo bem legal sobre a diferença entre ViewBinding e DataBinding, podem confundir quem ta começando, confere lá: https://medium.com/@hardianbobby/databinding-vs-viewbinding-simple-comparison-792fa8d72e8
