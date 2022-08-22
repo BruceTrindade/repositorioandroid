@@ -4,7 +4,7 @@ Intençao desse repositório é com o tempo compartilhar conteudos que possam aj
 
 # Discord
 
-Grupo do discord para estudar android: https://discord.gg/vAeyemsQ
+Grupo do discord para estudar android: https://discord.gg/NQhM6knTqc
 
 # Kotlin
 
