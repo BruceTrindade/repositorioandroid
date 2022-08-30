@@ -28,6 +28,9 @@ Curso gratuito da Udacity, excelente para quem ta começando: https://www.udacit
 
 Outro curso gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 
+**Lista com materiais**
+https://github.com/androiddevnotes/awesome-android-learning-resources
+
 **Roadmap:**
 
 Esse Roadmap ta bem completo e atualizado: https://github.com/skydoves/android-developer-roadmap
