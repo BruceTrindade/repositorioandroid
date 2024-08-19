@@ -5,7 +5,7 @@ Este repositório tem a intenção de compartilhar conteúdos que possam ajudar 
 ## 🧑‍💻 Kotlin
 
 ### 📚 Livro Recomendado
-- **[Kotlin In Action](https://www.manning.com/books/kotlin-in-action)**
+- **[Kotlin In Action]([https://www.manning.com/books/kotlin-in-action](https://www.amazon.com.br/Kotlin-em-A%C3%A7%C3%A3o-Dmitry-Jemerov/dp/857522610X?&linkCode=ll1&tag=280e82-20&linkId=9e4e13b50217c27e7b3313c16687d226&language=pt_BR&ref_=as_li_ss_tl))**
   - O livro _Kotlin In Action_ é muito bom, mas é importante ter cuidado com algumas informações desatualizadas. Sempre consulte a documentação oficial para comparar os exemplos do livro com a versão atual do Kotlin. Livros são escritos de forma didática e organizada para facilitar o entendimento, enquanto a documentação técnica foca na precisão e atualização.
 
 ### 🎓 Cursos e Conteúdos
