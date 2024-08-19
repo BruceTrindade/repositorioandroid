@@ -1,65 +1,73 @@
-# Repositorio Android
+# 📱 Repositório Android
 
-Intençao desse repositório é com o tempo compartilhar conteudos que possam ajudar quem ta começando no desenvolvimento android
+Este repositório tem a intenção de compartilhar conteúdos que possam ajudar quem está começando no desenvolvimento Android.
 
-# Discord
+## 🧑‍💻 Kotlin
 
-Grupo do discord para estudar android: https://discord.gg/NQhM6knTqc
+### 📚 Livro Recomendado
+- **[Kotlin In Action](https://www.manning.com/books/kotlin-in-action)**
+  - O livro _Kotlin In Action_ é muito bom, mas é importante ter cuidado com algumas informações desatualizadas. Sempre consulte a documentação oficial para comparar os exemplos do livro com a versão atual do Kotlin. Livros são escritos de forma didática e organizada para facilitar o entendimento, enquanto a documentação técnica foca na precisão e atualização.
 
-# Kotlin
+### 🎓 Cursos e Conteúdos
+- **[Curso da Documentação Kotlin](https://play.kotlinlang.org/koans/overview)**
+  - Um excelente recurso para praticar Kotlin de forma interativa.
+  
+- **[Conteúdo Didático sobre Kotlin](https://typealias.com/start/)**
+  - Este site oferece tutoriais e explicações de forma clara e acessível.
 
-Livro que indico: Kotlin In Action
-O livro Kotlin In Action é muito bom, mas tomem cuidado com algumas coisas desatualizadas. Olhem sempre a documentaçåo.
+- **[Cursos da Google](https://developer.android.com/codelabs/kotlin-bootcamp-introduction#0)**
+  - Curso interativo da Google para aprender Kotlin.
 
-Curso da documentação Kotlin: 
-https://play.kotlinlang.org/koans/overview
+- **[Kotlin Fundamentals](https://developer.android.com/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems?hl=en#0)**
+  - Curso da Google com problemas práticos para desenvolver suas habilidades em Kotlin.
 
-Slide com alguns conteudos sobre Kotlin Basico
-https://docs.google.com/presentation/d/1n-PKhRp8CKXOL1h5utw1pKoPPgzmOmHc7w0JYFNjITo/edit?usp=sharing
+## 🤖 Android
 
-Conteudo bem didatico sobre Kotlin:
-https://typealias.com/start/
+### 🎓 Cursos Gratuitos
+- **[Codelabs da Google](https://developer.android.com/get-started/codelabs?hl=pt-br)**
+  - Os cursos da Google são ótimos para quem está começando.
 
-# Android
+- **[Android Básico com Compose](https://developer.android.com/courses/android-basics-compose/course?hl=pt-br)**
+  - Curso básico sobre Android usando Jetpack Compose.
 
-**Cursos FREE:**
+- **[Android Fundamentals - Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)**
+  - Curso gratuito da Udacity, excelente para quem está começando.
 
-Curso gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/new-android-fundamentals--ud851
+- **[Desenvolvendo Apps Android com Kotlin - Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)**
+  - Outro curso gratuito da Udacity, focado no desenvolvimento de aplicativos Android com Kotlin.
 
-Outro curso gratuito da Udacity, excelente para quem ta começando: https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+### 📂 Lista de Materiais
+- **[Awesome Android Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources)**
+  - Uma lista repleta de recursos de aprendizado para desenvolvimento Android.
 
-**Lista com materiais**
-https://github.com/androiddevnotes/awesome-android-learning-resources
+### 🗺️ Roadmaps
+- **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
+  - Um roadmap completo e atualizado para quem deseja se tornar um desenvolvedor Android.
 
-**Roadmap:**
+- **[Roadmap para Entrevistas Android](https://github.com/MindorksOpenSource/android-interview-questions)**
+  - Guia para preparar-se para entrevistas de emprego como desenvolvedor Android.
 
-Esse Roadmap ta bem completo e atualizado: https://github.com/skydoves/android-developer-roadmap
+### 📱 Aplicações de Exemplo
 
-Roadmap Entrevistas: https://github.com/MindorksOpenSource/android-interview-questions
+- **[Exemplo de Uso do Retrofit](https://github.com/BruceTrindade/RetrofitExample)**
+  - Um sample app que demonstra como usar Retrofit. Pode clonar e estudar o fluxo.
 
-**Artigos:** 
+- **[Exemplo de Uso do Jetpack Navigation](https://github.com/BruceTrindade/WorkoutNavigation)**
+  - Exemplo prático de como usar o Navigation do Jetpack, comum no mercado. Tente replicar!
 
-Li esse artigo bem legal sobre a diferença entre ViewBinding e DataBinding, podem confundir quem ta começando, confere lá: https://medium.com/@hardianbobby/databinding-vs-viewbinding-simple-comparison-792fa8d72e8
+- **[Exemplo de RecyclerView, Navigation e Bottom Dialog](https://github.com/BruceTrindade/InformalBusinessDictionary)**
+  - Um sample app que inclui RecyclerView, Navigation (incluindo passagem de dados entre telas) e um Bottom Dialog.
 
-**SampleApps que eu fiz mostrando alguns topicos que podem estudar:** 
+- **[Exemplo Simples de ViewModel](https://github.com/BruceTrindade/SampleViewModel)**
+  - Um exemplo básico de implementação de ViewModel.
 
-Um exemplo de como usar retrofit, é apenas um sample app, pode fazer o clone e entender como funciona o fluxo: https://github.com/BruceTrindade/RetrofitExample
+### 📝 Artigos
 
-Um exemplo de como usar Navigation do jetpack, é bem usual no mercado, tenta replicar:
-https://github.com/BruceTrindade/WorkoutNavigation
+- **[Diferença entre ViewBinding e DataBinding](https://medium.com/@hardianbobby/databinding-vs-viewbinding-simple-comparison-792fa8d72e8)**
+  - Artigo interessante que explica as diferenças entre ViewBinding e DataBinding, conceitos que podem confundir iniciantes.
 
-Um exemplo de RecyclerView, Navigation (inclusive passando dados entre telas) e bottom  dialog:
-https://github.com/BruceTrindade/InformalBusinessDictionary
+## 🌍 Git
 
-Um simples exemplo de ViewModel
-https://github.com/BruceTrindade/SampleViewModel
-
-Qualquer duvida só chamar no discord, valeu!!!
-
-# Git
-
-Nesse repositório tem alguns comandos de git que serão muito usuais. Com o tempo adiciono novos comandos e mais dicas, por enquanto está bem simples:
-https://github.com/BruceTrindade/git
-
-Aqui ta o livro da própria git: https://git-scm.com/book/pt-br/v2
-
+### 📚 Livro Recomendado
+- **[Pro Git](https://git-scm.com/book/pt-br/v2)**
+  - Livro oficial do Git, que cobre desde os conceitos básicos até o uso avançado da ferramenta.
