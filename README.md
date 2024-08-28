@@ -2,6 +2,8 @@
 
 Este repositório tem a intenção de compartilhar conteúdos que possam ajudar quem está começando no desenvolvimento Android.
 
+Se inscreva para receber novidades: https://bruce-newsletter.beehiiv.com/ 📝
+
 ## 🧑‍💻 Kotlin
 
 ### 📚 Livro Recomendado
